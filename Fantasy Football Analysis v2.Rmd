@@ -2,7 +2,7 @@
 
 #initialize your league's rules
 ```{r}
-numberOfTeams <- 10
+numberOfTeams <- 12
 
 isFlex <- TRUE
 
@@ -11,7 +11,7 @@ rushYards <- .1
 receivingYards <- .1
 rushTD <- 6
 receivingTD <- 6
-passYards <- 1/25
+passYards <- 3/74
 passTD <- 4
 fmb <- -2
 int <- -2
